@@ -13,6 +13,10 @@
  
     <bean class="com.gailo22.camunda.Starter"  />
     <bean id="calculateInterestService" class="com.gailo22.camunda.CalculateInterestService"  />
+    
+    <!-- 
+    <bean id="invoicePa" class="org.camunda.bpm.engine.spring.application.SpringServletProcessApplication" />
+     -->
 
 	<bean id="dataSource"
 		class="org.springframework.jdbc.datasource.TransactionAwareDataSourceProxy">

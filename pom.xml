@@ -13,7 +13,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<camunda.version>7.0.0-alpha3</camunda.version>
+		<camunda.version>7.0.0-Final</camunda.version>
 		<spring.version>3.1.2.RELEASE</spring.version>
 	</properties>
 
